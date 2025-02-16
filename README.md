@@ -21,5 +21,5 @@ To run cells in Databricks:
 3. Alternatively, you can click on the "Run" button at the top of the notebook to run all cells in the notebook.
 
 ## Check the Analysis Here
-- [GraphFrame for Airports](Part I.ipynb)
-- [Tweet Processing & Classification](Part II.ipynb)
+1. [GraphFrame for Airports](./Part I.ipynb)
+2. [Tweet Processing & Classification](./Part II.ipynb)
